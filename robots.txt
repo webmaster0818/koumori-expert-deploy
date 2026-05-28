@@ -3,4 +3,4 @@ Allow: /
 Disallow: /_next/
 Disallow: /api/
 
-Sitemap: https://koumori-expert.com/sitemap.xml
+Sitemap: https://koumori-expert-navi.com/sitemap.xml
